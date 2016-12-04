@@ -13,6 +13,7 @@ gem 'simple_form', '~> 3.0.2'
 gem 'devise', '~> 3.4.1'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'paperclip', '~> 4.2.0'
+gem 'bootstrap_forms', '~> 4.0', '>= 4.0.1'
 
 group :development do
   gem 'sqlite3'

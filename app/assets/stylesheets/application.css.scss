@@ -1,7 +1,12 @@
 /*
  *= require_self
  */
-
+.form-inputs {
+ 		margin:10px auto;
+    max-width: 400px;
+    padding: 20px 12px 10px 20px;
+    font: 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
 body {
 	font-family: "Proxima Nova";
 	font-weight: 100;

@@ -1,11 +1,13 @@
 /*
  *= require_self
  */
+.form-inputs {
+    font: 13px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 body {
 	font-family: "Proxima Nova";
 	font-weight: 100;
-  background-color: #1d9b93;
+  
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -15,7 +17,6 @@ h1, h2, h3, h4, h5, h6 {
 .wrapper {
 	width: 80%;
 	margin: 0 auto;
-  background: #1d9b93;
 }
 
 .clearfix:before, .clearfix:after {
@@ -38,7 +39,6 @@ h1, h2, h3, h4, h5, h6 {
 
 header {
 	width: 100%;
-  background-color: #1d9b93;
 	padding: 2rem 0;
 	border-bottom: 1px solid #E4E4E4;
 	#logo {
